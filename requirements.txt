@@ -107,12 +107,11 @@ streamlit
 tenacity
 tensorboard
 tensorboard-data-server
-tensorflow == 2.16; platform_system != "Darwin"
+tensorflow
 tensorflow-decision-forests
 tensorflow-estimator
 tensorflow-hub
 tensorflow-io-gcs-filesystem
-tensorflow-macos ; platform_system == "Darwin"
 tensorflowjs
 tensorstore
 termcolor

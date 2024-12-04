@@ -108,7 +108,6 @@ tenacity
 tensorboard
 tensorboard-data-server
 tensorflow 
-tensorflow-decision-forests
 tensorflow-estimator
 tensorflow-hub
 tensorflow-io-gcs-filesystem

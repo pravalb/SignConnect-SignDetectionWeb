@@ -107,7 +107,7 @@ streamlit
 tenacity
 tensorboard
 tensorboard-data-server
-tensorflow ; platform_system != "Darwin"
+tensorflow ; platform_system == "Darwin"
 tensorflow-decision-forests
 tensorflow-estimator
 tensorflow-hub

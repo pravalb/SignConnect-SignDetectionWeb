@@ -107,7 +107,7 @@ streamlit
 tenacity
 tensorboard
 tensorboard-data-server
-tensorflow == 2.18
+tensorflow 
 tensorflow-decision-forests
 tensorflow-estimator
 tensorflow-hub
